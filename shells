@@ -1,0 +1,8 @@
+#
+# Nomes de caminho de shells de login válidos.
+# Veja shells(5) para detalhes.
+#
+
+/bin/sh
+/bin/bash
+/bin/rbash

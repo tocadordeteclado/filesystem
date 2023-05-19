@@ -1,0 +1,15 @@
+#
+# Arquivo que lista os consoles a partir dos quais
+# o root pode efetuar login. Consulte securetty(5)
+# para obter detalhes.
+#
+
+console
+tty1
+tty2
+tty3
+tty4
+tty5
+tty6
+ttyS0
+hvc0

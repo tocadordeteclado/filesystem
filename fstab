@@ -1,0 +1,20 @@
+#
+# Informações estáticas sobre os sistemas de arquivos.
+# Veja fstab(5) para detalhes.
+#
+
+#
+# Tabela:
+#     +--------------------+---------+------+----------+--------+---------------+
+#     | Sistema de Arquivo | Caminho | Tipo | Opções   | Backup | Checar Falhas |
+#     +--------------------+---------+------+----------+--------+---------------+
+#     | /dev/sda1          | /       | ext3 | defaults | 1      | 1             |
+#     +--------------------+---------+------+----------+--------+---------------+
+#
+# Exemplo:
+#     / ext3 defaults 1 1
+#
+# Fstab:
+#     <Sistema de Arquivo>  <Caminho>      <Tipo>  <Opções>   <Backup>  <Checar Falhas>
+#     <File System>         <Mount Point>  <Type>  <Options>  <Dump>    <Pass>
+#

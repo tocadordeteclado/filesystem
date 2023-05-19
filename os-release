@@ -1,0 +1,11 @@
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="http://localhost/archlinux/"
+DOCUMENTATION_URL="http://localhost/archlinux/"
+SUPPORT_URL="http://localhost/archlinux/"
+BUG_REPORT_URL="http://localhost/archlinux/"
+PRIVACY_POLICY_URL="http://localhost/archlinux/"
+LOGO=archlinux-logo
